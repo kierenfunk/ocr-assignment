@@ -2,6 +2,8 @@
 
 A university assignment exploring principles of machine learning and optical character recognition (OCR).
 
+Code written by me is found in code/system.py.
+
 ## Requirements
 
 Requirements are found in code/requirements.txt
